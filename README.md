@@ -10,5 +10,5 @@ video
 lang
 
 
-follow
-![Discord](https://img.shields.io/discord/681216134854475816?label=Discord&logo=Discord&logoColor=white)
+
+![Discord](https://img.shields.io/discord/681216134854475816?color=blue&label=Discord&logo=Discord&logoColor=white&style=for-the-badge)
