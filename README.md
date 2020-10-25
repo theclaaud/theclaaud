@@ -6,7 +6,7 @@
 
 
 
-## Lags
+## Langs
 
 ![Test](https://img.shields.io/badge/Python-rgb(35,33,34)?style=for-the-badge&logo=Python)
 ![Test](https://img.shields.io/badge/SQLITE-rgb(35,33,34)?style=for-the-badge&logo=SQLITE)
