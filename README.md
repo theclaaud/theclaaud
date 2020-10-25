@@ -23,4 +23,4 @@
 [![Telegram](https://img.shields.io/badge/Telegram-rgb(35,33,34)?style=for-the-badge&logo=Telegram)]()
 [![Discord](https://img.shields.io/discord/681216134854475816?color=rgb%2835%2C33%2C34%29&label=Discord&logo=Discord&logoColor=rgb%2835%2C33%2C34%29&style=for-the-badge)](https://discord.gg/MjKCbg3)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yaclaud&count_private=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yaclaud&count_private=false&show_icons=true&theme=dark)
