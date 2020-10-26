@@ -13,7 +13,6 @@
 ![Test](https://img.shields.io/badge/MONGODB-rgb(35,33,34)?style=for-the-badge&logo=MONGODB)
 ![Test](https://img.shields.io/badge/HTML-rgb(35,33,34)?style=for-the-badge&logo=HTML)
 ![Test](https://img.shields.io/badge/CSS-rgb(35,33,34)?style=for-the-badge&logo=CSS)
-![Test](https://img.shields.io/badge/JAVA-rgb(35,33,34)?style=for-the-badge&logo=JAVA)
 
 
 
