@@ -9,11 +9,11 @@
 ## Langs
 
 ![Python](https://img.shields.io/badge/Python-rgb(35,33,34)?style=for-the-badge&logo=Python)
-![Sqlite](https://img.shields.io/badge/SQLITE-rgb(35,33,34)?style=for-the-badge&logo=SQLITE)
-![MongoDb](https://img.shields.io/badge/MONGODB-rgb(35,33,34)?style=for-the-badge&logo=MONGODB)
+![Js](https://img.shields.io/badge/JAVASCRIPT-rgb(35,33,34)?style=for-the-badge&logo=JavaScript)
 ![Html](https://img.shields.io/badge/HTML-rgb(35,33,34)?style=for-the-badge&logo=HTML)
 ![Css](https://img.shields.io/badge/CSS-rgb(35,33,34)?style=for-the-badge&logo=CSS)
-![Js](https://img.shields.io/badge/JAVASCRIPT-rgb(35,33,34)?style=for-the-badge&logo=JavaScript)
+![MongoDb](https://img.shields.io/badge/MONGODB-rgb(35,33,34)?style=for-the-badge&logo=MONGODB)
+![Sqlite](https://img.shields.io/badge/SQLITE-rgb(35,33,34)?style=for-the-badge&logo=SQLITE)
 
 
 
