@@ -14,8 +14,6 @@
 ![Css](https://img.shields.io/badge/CSS-rgb(35,33,34)?style=for-the-badge&logo=CSS)
 ![MongoDb](https://img.shields.io/badge/MONGODB-rgb(35,33,34)?style=for-the-badge&logo=MONGODB)
 ![Sqlite](https://img.shields.io/badge/SQLITE-rgb(35,33,34)?style=for-the-badge&logo=SQLITE)
-[![Claudbot](https://github.com/yaclaud/moibot/actions/workflows/python-app.yml/badge.svg?branch=master&event=status)](https://github.com/yaclaud/moibot/actions/workflows/python-app.yml)
-
 
 
 
