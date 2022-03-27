@@ -10,7 +10,7 @@
 
 ![Python](https://img.shields.io/badge/Python-rgb(35,33,34)?style=for-the-badge&logo=Python)
 ![Js](https://img.shields.io/badge/JAVASCRIPT-rgb(35,33,34)?style=for-the-badge&logo=JavaScript)
-![c](https://img.shields.io/badge/c-rgb(35,33,34)?style=for-the-badge&logo=c)
+![C](https://img.shields.io/badge/C-rgb(35,33,34)?style=for-the-badge&logo=C)
 ![Html](https://img.shields.io/badge/HTML-rgb(35,33,34)?style=for-the-badge&logo=HTML)
 ![Css](https://img.shields.io/badge/CSS-rgb(35,33,34)?style=for-the-badge&logo=CSS)
 ![MongoDb](https://img.shields.io/badge/MONGODB-rgb(35,33,34)?style=for-the-badge&logo=MONGODB)
