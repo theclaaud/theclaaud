@@ -28,7 +28,5 @@
 
 ## Contact Me:
 [![Telegram](https://img.shields.io/badge/Telegram-rgb(35,33,34)?style=for-the-badge&logo=Telegram)](https://t.me/theclaud)
-[![Discord](https://img.shields.io/discord/830886776541151303?color=rgb%2835%2C33%2C34%29&label=Discord&logo=Discord&logoColor=rgb%2835%2C33%2C34%29&style=for-the-badge)](https://discord.gg/yKcTqAjqK2)
-[![Vk](https://img.shields.io/badge/VK-rgb(35,33,34)?style=for-the-badge&logo=Vk)](https://vk.com/claud_off)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=theclaaud&count_private=false&show_icons=true&theme=dark)
